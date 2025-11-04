@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json.schemastore.org/eslintrc",
+  "extends": ["next/core-web-vitals", "next/typescript"],
+  "rules": {
+    "react/jsx-sort-props": ["error", { "callbacksLast": true }],
+    "react/function-component-definition": [
+      "error",
+      { "namedComponents": "arrow-function" }
+    ],
+    "no-console": ["warn", { "allow": ["warn", "error"] }]
+  }
+}

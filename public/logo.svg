@@ -1,0 +1,10 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="App Assistência Técnica">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3E2A78" />
+      <stop offset="100%" stop-color="#6C4FE2" />
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="url(#gradient)" />
+  <path d="M38 80C42 68 60 32 72 32C84 32 90 48 84 60C76 76 54 96 38 96C30 96 26 90 28 82C30 74 34 70 42 70C54 70 66 78 78 92" stroke="#ffffff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+</svg>
